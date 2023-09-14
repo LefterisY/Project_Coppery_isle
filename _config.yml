@@ -1,11 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Tales from the Coppery Isle RPG
+description: This will evolve into my own TTRPG as well as site for generating random things for TTRPGs
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: ttps://YOUR-USERNAME.github.io/YOUR-SITE-NAME
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository:  https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
 
 plugins:
   - jekyll-default-layout
